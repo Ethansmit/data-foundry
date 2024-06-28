@@ -1,0 +1,37 @@
+Implementation 1:
+ [ ] Pandas and NumPy
+ [ ] Create basic object and initial gen functions
+ [ ] Add output functions and other helper functions
+ [ ] Expand gen function
+ [ ] Add distributions and extra functions
+ [ ] Testing and Finalization of Implementation 1
+ [ ] Add Documentation
+Implementation 2:
+ [ ] Add random gen helper functions
+ [ ] Add conversion functions for existing data files.
+ [ ] Add Advanced Error Checking and Testing
+ [ ] Update Documentation
+ [ ] Config files
+Implementation 3:
+ [ ] Create simple GUI for generating data
+ [ ] Debug and Improve GUI functionality
+ [ ] Improve appearance of GUI
+ [ ] Provide executable for GUI
+ [ ] Provide Documentation for GUI
+Implementation 4:
+ [ ] Finalize Code
+ [ ] Final Testing
+ [ ] Final Documentation
+ [ ] Finish Project
+
+
+ Structure:
+    dataforge/
+        __init__
+        forge
+        utils
+        distributions
+        generators
+    tests/
+    docs/
+    Data Forge executable
