@@ -1,5 +1,5 @@
 Implementation 1:
- [ ] Pandas and NumPy
+ [X] Pandas and NumPy
  [ ] Create basic object and initial gen functions
  [ ] Add output functions and other helper functions
  [ ] Expand gen function
@@ -10,6 +10,7 @@ Implementation 2:
  [ ] Add random gen helper functions
  [ ] Add conversion functions for existing data files.
  [ ] Add Advanced Error Checking and Testing
+ [ ] Add Any extra Features
  [ ] Update Documentation
  [ ] Config files
 Implementation 3:
