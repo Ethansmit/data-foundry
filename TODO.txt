@@ -1,17 +1,23 @@
 Implementation 1:
  [X] Pandas and NumPy
- [ ] Create basic object and initial gen functions
+ [X] Create basic object and initial gen functions
+ [ ] Add basic association to config and generating functions
+ [ ] Add format and error checking to config
  [ ] Add output functions and other helper functions
  [ ] Expand gen function
  [ ] Add distributions and extra functions
  [ ] Testing and Finalization of Implementation 1
  [ ] Add Documentation
 Implementation 2:
+ [ ] Add basic data dependency to Config and generation
+ [ ] Add complex data dependent to Config
+ [ ] Finish setting up data dependency.
  [ ] Add random gen helper functions
  [ ] Add conversion functions for existing data files.
  [ ] Add Advanced Error Checking and Testing
  [ ] Add Any extra Features
  [ ] Update Documentation
+ [ ] Add Presets for data generation
  [ ] Config files
 Implementation 3:
  [ ] Create simple GUI for generating data

@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import random as rnd
 
+# Config
 make = ['Honda', 'Ford', 'Toyota', 'Chevy', 'Kia']
 model = ['Element', 'F-150', 'Prius', 'Silverado', 'Forte']
 year = [2018, 2019, 2020, 2021, 2022, 2023, 2024]
