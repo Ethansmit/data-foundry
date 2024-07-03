@@ -1,7 +1,7 @@
 Implementation 1:
  [X] Pandas and NumPy
  [X] Create basic object and initial gen functions
- [ ] Add basic association to config and generating functions
+ [X] Add basic association to config and generating functions
  [ ] Add format and error checking to config
  [ ] Add output functions and other helper functions
  [ ] Expand gen function
